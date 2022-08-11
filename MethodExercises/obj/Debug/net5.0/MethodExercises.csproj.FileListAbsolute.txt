@@ -1,0 +1,16 @@
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\bin\Debug\net5.0\MethodExercises.exe
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\bin\Debug\net5.0\MethodExercises.deps.json
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\bin\Debug\net5.0\MethodExercises.runtimeconfig.json
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\bin\Debug\net5.0\MethodExercises.runtimeconfig.dev.json
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\bin\Debug\net5.0\MethodExercises.dll
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\bin\Debug\net5.0\MethodExercises.pdb
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\obj\Debug\net5.0\MethodExercises.csproj.AssemblyReference.cache
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\obj\Debug\net5.0\MethodExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\obj\Debug\net5.0\MethodExercises.AssemblyInfoInputs.cache
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\obj\Debug\net5.0\MethodExercises.AssemblyInfo.cs
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\obj\Debug\net5.0\MethodExercises.csproj.CoreCompileInputs.cache
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\obj\Debug\net5.0\MethodExercises.dll
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\obj\Debug\net5.0\refint\MethodExercises.dll
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\obj\Debug\net5.0\MethodExercises.pdb
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\obj\Debug\net5.0\MethodExercises.genruntimeconfig.cache
+C:\Users\cbpat\Desktop\repos\MethodExercises\MethodExercises\obj\Debug\net5.0\ref\MethodExercises.dll
